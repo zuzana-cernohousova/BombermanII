@@ -50,14 +50,12 @@ namespace Bomberman.Game
         {
             List<Level.Level> levels = new();
 
-            levels.Add(new Level.Level(new FileMapFactory("maps/emptymap.txt")));
-
             Random r = new Random(12);
 
             int start = r.Next(1234);
             for (int i = start; i < start + 10; i++)
             {
-                //levels.Add(new Level.Level(new RandomMapFactory(i)));
+                levels.Add(new Level.Level(new RandomMapFactory(i)));
             }
 
             return levels;
