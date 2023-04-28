@@ -23,6 +23,9 @@ Pokud budete úspěšní a podaří se Vám hru dohrát do konce, můžete na v�
 Pokud Vás příšerka nevidí, drží se vždy při pravé stěně a pokud může, odbočí doprava. Pokud však vidí, pohybuje se vždy přímo k Vám.
 ### Předměty:
 Detonací bomby v dosahu rozbitného druhu zdi můžete odhalit následující předměty:
+
+# Disclaimer
+Obrázky používané pro vykreslování mapy jsou převzané nebo inspirované z původní hry Bomberman pro NES z roku 1985.
 - **Dveře** – projděte odemčenými dveřmi a tím vyhrajte level
 - **Klíč** – sebráním klíče odemknete dveře
 - **Truhlu** – sebráním pokladu v truhle si zvýšíte skóre
